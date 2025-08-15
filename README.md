@@ -1,6 +1,6 @@
 # 🌱 Tamer Barraj
 
-**`Software Developer / Game Developer / Creator`**
+**`Software Developer / Game Developer`**
 
 <p>Hi there! 👋 I'm currently working on a python IDE that I plan to release in about a month. Excited to share it soon!
 
